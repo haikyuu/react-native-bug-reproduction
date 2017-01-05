@@ -1,0 +1,3 @@
+rootProject.name = 'styledNative'
+
+include ':app'
